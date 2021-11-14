@@ -26,3 +26,7 @@
 ```link
     http://localhost:3000/auth/signout
 ```
+### Modification Profile (Requete GET)
+```link
+    http://localhost:3000/api/users/6190e865d1c279a0b2d1c823
+```
